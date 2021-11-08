@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://besthqwallpapers.com/Uploads/18-4-2020/128815/thumb2-aryan-4k-wallpapers-with-names-horizontal-text-aryan-name.jpg");
+    background-size: cover;
+    background-position-x : -0.5cm;
+    background-color: rgba(80, 80, 80, 0.5);
+
+}
+h1{
+               
+    text-align: center;
+ }
+ p{
+   color: rgb(9, 238, 28);  
+
+ }
+ .A{
+    background-color: indianred;
+    display: flex;
+   flex-direction: column;
+ }
+ .projects{
+     display: flex;
+    gap: 30px;
+     flex-direction: row;
+ }
